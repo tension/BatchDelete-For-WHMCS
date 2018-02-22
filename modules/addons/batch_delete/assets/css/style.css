@@ -1,0 +1,25 @@
+.panel-pages {
+    min-height: 100px;
+    display: block;
+}
+.panel-pages h4 {
+	font-weight: 400;
+}
+.panel-add h4 {
+    margin: 25px;
+}
+a.panel-add {
+    color: #444;
+	text-decoration: none;
+}
+a.panel-add:hover {
+	color: #888;
+}
+code a,
+code a:hover {
+	color: #c7254e;
+	text-decoration: none;
+}
+.btn-danger {
+	margin-left: 5px;
+}
